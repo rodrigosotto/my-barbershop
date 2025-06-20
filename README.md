@@ -13,7 +13,7 @@
 🔲 Exibição do tempo de espera em tempo real para os clientes<br>
 🔲 Transformação do sistema em um PWA<br>
 🔲 Deploy final do projeto<br>
-
+<br>
 📂 Como Rodar o Projeto<br>
 1️⃣ Clone este repositório:<br>
      git clone https://github.com/seu-usuario/seu-repositorio.git<br>
