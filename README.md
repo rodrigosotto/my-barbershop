@@ -15,6 +15,7 @@
 🔲 Deploy final do projeto<br>
 <br>
 📂 Como Rodar o Projeto<br>
+
 1️⃣ Clone este repositório:<br>
      git clone https://github.com/seu-usuario/seu-repositorio.git<br>
 
