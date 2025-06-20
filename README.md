@@ -1,6 +1,6 @@
 <h2>Projeto para barbearia - Angular e Supabase</h2>
 🛠️ Tecnologias Utilizadas<br>
-🚀 Angular 19 - Framework moderno para construção da interface do usuário<br>
+🚀 Angular 20 - Framework moderno para construção da interface do usuário<br>
 🛢 Supabase - Backend como serviço, lidando com banco de dados, autenticação e real-time<br>
 🎨 NG-Zorro - Biblioteca de componentes para Angular<br>
 💳 Stripe - Plataforma de pagamentos integrada<br>
